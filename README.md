@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **pakingo.se**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/folderview?id=10KEq76CKQytrmmTHv-HjRcXJxxXjBCyG](https://drive.google.com/folderview?id=10KEq76CKQytrmmTHv-HjRcXJxxXjBCyG)
-
 - 💬 Ask me about **UI/UX**
 
 - 📫 How to reach me **singhmuskan2603@gmail.com**
